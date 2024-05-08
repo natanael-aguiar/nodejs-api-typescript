@@ -1,0 +1,82 @@
+[
+  {
+    "podcastName": "flow",
+    "episode": "CBUM – Flow #319",
+    "videoId": "pQSuQmUfS30",
+    "categories": ["saúde", "esporte", "bodybuilder"],
+    "guests": ["CBUM"],
+    "datePublished": "2023-03-15"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "RUBENS BARRICHELLO – Flow #339",
+    "videoId": "4KDGTdi0V4I",
+    "categories": ["esporte", "corrida"],
+    "guests": ["Rubens Barrichello"],
+    "datePublished": "2023-04-10"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "MONARK E IGÃO – Flow #748",
+    "videoId": "b1OFJnlrtqs",
+    "categories": ["comédia", "debate"],
+    "guests": ["Monark", "Igão Underground"],
+    "datePublished": "2023-10-26"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "CASEMIRO – Flow #541",
+    "videoId": "M98q_y7w57M",
+    "categories": ["esporte", "futebol"],
+    "guests": ["Casemiro"],
+    "datePublished": "2023-06-29"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "CAUÊ MOURA – Flow #404",
+    "videoId": "69o1LJmHzwM",
+    "categories": ["música", "humor"],
+    "guests": ["Cauê Moura"],
+    "datePublished": "2023-05-11"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "GABRIEL, O PENSADOR – Flow #683",
+    "videoId": "7a_eM4N7A4s",
+    "categories": ["música", "rap"],
+    "guests": ["Gabriel, o Pensador"],
+    "datePublished": "2023-09-14"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "LUCAS INUTILISMO – Flow #458",
+    "videoId": "5iyt5y9dKUM",
+    "categories": ["comédia", "internet"],
+    "guests": ["Lucas Inutilismo"],
+    "datePublished": "2023-06-07"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "CARIOCA – Flow #740",
+    "videoId": "0l8-dKH1uWI",
+    "categories": ["humor", "futebol"],
+    "guests": ["Marcelo D2", "Marcius Melhem"],
+    "datePublished": "2023-10-19"
+  },
+  {
+    "podcastName": "flow",
+    "episode": "DRAUZIO VARELLA – Flow #312",
+    "videoId": "538lSs7rKJs",
+    "categories": ["saúde", "ciência"],
+    "guests": ["Drauzio Varella"],
+    "datePublished": "2023-03-09"
+  },
+  {
+    "podcastName": "venus",
+    "episode": "TATÁ WERNECK – Flow #389",
+    "videoId": "6h-3WFAhdkU",
+    "categories": ["humor", "atriz"],
+    "guests": ["Tatá Werneck"],
+    "datePublished": "2023-05-04"
+  }
+]
